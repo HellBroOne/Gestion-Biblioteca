@@ -1,0 +1,95 @@
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\bin\Debug\Libreria.exe
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\MainWindow.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\App.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.lref
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\MainWindow.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.g.resources
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.exe
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Window1.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\UAZ\Semestre4\Programacion Visual .NET\Programas\Actividades1Febrero\Libreria\Libreria\obj\Debug\Window1.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Lector.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\MainWindow.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Window1.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\App.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.lref
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.exe
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\bin\Debug\Libreria.exe
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\MainWindow.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Window1.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Lector.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.g.resources
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\ActualizarLector.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\Libreria\obj\Debug\ActualizarLector.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizarLector.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Lector.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\MainWindow.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Window1.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\App.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.lref
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.exe
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizaBibliotecario.g.cs
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\bin\Debug\Libreria.exe
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizaBibliotecario.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizarLector.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Lector.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\MainWindow.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Window1.baml
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.g.resources
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\Andres Contreras\OneDrive - uaz.edu.mx\Escritorio\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizaBibliotecario.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizarLector.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizarLibro.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Lector.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libro.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\MainWindow.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Window1.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\App.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria_MarkupCompile.lref
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.exe
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.pdb
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\bin\Debug\Libreria.exe
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizaBibliotecario.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizarLector.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizarLibro.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Lector.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libro.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\MainWindow.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Window1.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.g.resources
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizaPrestamo.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\ActualizaPrestamo.baml
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\EasterEgg.g.cs
+C:\Users\gerar\Documents\schooldocs\ingsoft\sem4\VisualNET\Libreria\LibreriaLECTOR\Libreria\Libreria\obj\Debug\EasterEgg.baml

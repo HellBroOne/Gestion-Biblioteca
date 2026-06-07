@@ -1,0 +1,60 @@
+﻿<Window x:Class="Libreria.Libro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Libreria"
+        mc:Ignorable="d"
+        Title="Libro" Height="450" Width="800"
+        Activated = "Window_Activated">
+
+    <Grid Margin="0,0,0,-6">
+        <Grid.Background>
+            <ImageBrush ImageSource="/madera.png"/>
+        </Grid.Background>
+        <DockPanel Margin="0,-10,0,411" RenderTransformOrigin="0.529,-4.307">
+            <Menu DockPanel.Dock ="Top" Margin="0, 0, 0, -10" Height="22" RenderTransformOrigin="0.496,-3.245">
+                <MenuItem Header="Archivo">
+                    <MenuItem Header="Regresar a Prestamo" Name="menuRegresar" Click="botonRegresarLibro_Click"/>
+                </MenuItem>
+                <MenuItem Header="Ayuda" Name="men_help" Click="menuAyuda_Click" />
+            </Menu>
+        </DockPanel>
+
+        <Grid Margin="0,29,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="16*"/>
+                <ColumnDefinition Width="31*"/>
+                <ColumnDefinition Width="753*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="37*"/>
+                <RowDefinition Height="25*"/>
+            </Grid.RowDefinitions>
+
+            <Label x:Name="title_regLib" Content="Registro Libro" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="48" Width="245" FontSize="36" FontFamily="Franklin Gothic Medium" FontWeight="Bold" Grid.ColumnSpan="3"/>
+            <Label x:Name="texto_titulo" Content="Titulo:" HorizontalAlignment="Left" Margin="29,66,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Label x:Name="texto_genero" Content="Genero: " HorizontalAlignment="Left" Margin="29,92,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Label x:Name="texto_autor" Content="Autor: " HorizontalAlignment="Left" Margin="29,118,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Label x:Name="texto_editorial" Content="Editorial: " HorizontalAlignment="Left" Margin="29,141,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Label x:Name="texto_cantidadpag" Content="Cantidad de Paginas: " HorizontalAlignment="Left" Margin="29,164,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Label x:Name="texto_cantidad" Content="Cantidad: " HorizontalAlignment="Left" Margin="29,188,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="input_titulo" HorizontalAlignment="Left" Margin="142,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" BorderBrush="Black" Grid.Column="2" />
+            <TextBox x:Name="input_genero" HorizontalAlignment="Left" Margin="142,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" BorderBrush="Black" Grid.Column="2"/>
+            <TextBox x:Name="input_autor" HorizontalAlignment="Left" Margin="142,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" BorderBrush="Black" Grid.Column="2"/>
+            <TextBox x:Name="input_editorial" HorizontalAlignment="Left" Margin="142,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" BorderBrush="Black" Grid.Column="2" />
+            <TextBox x:Name="input_cantidadPag" HorizontalAlignment="Left" Margin="142,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" BorderBrush="Black" Grid.Column="2"/>
+            <TextBox x:Name="input_cantidad" HorizontalAlignment="Left" Margin="142,202,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" BorderBrush="Black" Grid.Column="2"/>
+            <Button x:Name="button_register" Content="Agregar" HorizontalAlignment="Left" Margin="206,1,0,0" VerticalAlignment="Top" Height="40" Width="73" Click="Button_Click" Background="#FF84F1BD" Grid.Row="1" Grid.Column="2"/>
+            <ListBox x:Name="todosLosLibros" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="416,100,45,10" Grid.Column="2"/>
+            <Button Content="Actualizar" HorizontalAlignment="Left" Margin="437,14,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="41" Width="78" Background="#FF6EE8F7" Grid.Column="2" Grid.Row="1"/>
+            <Button Content="Eliminar" HorizontalAlignment="Left" Margin="584,14,0,0" VerticalAlignment="Top" Height="40" Width="74" Background="#FFFD8383" Click="Button_Click_2" Grid.Column="2" Grid.Row="1"/>
+            <Label x:Name="label_libros" Content="Todos los libros " HorizontalAlignment="Left" Margin="428,65,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="16" Grid.Column="2"/>
+            <Image Grid.Column="2" HorizontalAlignment="Left" Height="64" Margin="195,0,0,0" VerticalAlignment="Top" Width="84" Source="/2421033.png"/>
+
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="59" Margin="204,273,0,0" VerticalAlignment="Top" Width="48" Source="/Basic_Ui_(235)-PhotoRoom.png-PhotoRoom.png"/>
+        <Image HorizontalAlignment="Left" Height="47" Margin="437,286,0,0" VerticalAlignment="Top" Width="52" Source="/istockphoto-587954006-170667a-PhotoRoom.png-PhotoRoom.png"/>
+        <Image HorizontalAlignment="Left" Height="47" Margin="707,285,0,0" VerticalAlignment="Top" Width="60" Source="/borrar-plugins-wordpress.png"/>
+    </Grid>
+</Window>
