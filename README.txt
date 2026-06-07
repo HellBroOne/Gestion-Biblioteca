@@ -1,8 +1,8 @@
-########### TRABAJO DEL EQUIPO CONFORMADO POR ################
+## TRABAJO DEL EQUIPO CONFORMADO POR
 Andrés Contreras Sánchez, José Antonio Alba Dévora y Gerardo Rivas
 Delgado.
 
-############### BREVE EXPLICACIÓN ################
+### BREVE EXPLICACIÓN
 En Images nomas hay únicamente imágenes.
 En sql los archivos de las tablas usadas para guardar cada
 entidad.
